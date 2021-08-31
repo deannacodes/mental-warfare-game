@@ -3,7 +3,7 @@ node_modules
 src/config.json
 
 db/*
-secret.json
+./secret.json
 
 # local env files
 .env.local
